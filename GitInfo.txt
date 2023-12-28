@@ -1,0 +1,9 @@
+spring.profiles.active=local
+
+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
+
+
+git commit -m "xxx"
+git remote add origin https://github.com/parbhakarsatbear/property-management.git
+git remote set-url origin https://parbhakarsatbear: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@github.com/parbhakarsatbear/property-management.git
+git push --set-upstream origin master
